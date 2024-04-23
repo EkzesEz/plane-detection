@@ -1,0 +1,9 @@
+path: c:\Workspace\YOLO\data
+train: images/train
+test: images/train
+val: images/train
+# valid: (validation dataset folder path)
+
+# Class names 
+names: 
+  0: airplane

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Class</folder>
+	<filename>Desktop 2024.04.20 - 19.35.52.02.DVR (online-video-cutter.com)_059.jpg</filename>
+	<path>C:\Workspace\YOLO\Class\Desktop 2024.04.20 - 19.35.52.02.DVR (online-video-cutter.com)_059.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>airplane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>248</xmin>
+			<ymin>990</ymin>
+			<xmax>424</xmax>
+			<ymax>1073</ymax>
+		</bndbox>
+	</object>
+</annotation>
